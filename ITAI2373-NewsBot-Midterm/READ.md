@@ -1,14 +1,33 @@
-# ITAI2373 NewsBot Midterm
+# ITAI2373 NewsBot Intelligence System – Midterm Project
 
-This project demonstrates a NewsBot Intelligence System using Natural Language Processing (NLP).
+## Project Overview
+
+This project demonstrates a NewsBot Intelligence System built using Natural Language Processing (NLP). The system analyzes news articles by applying multiple NLP techniques to automatically process text, classify articles, analyze sentiment, and identify important named entities. The goal of the project is to transform unstructured news data into meaningful information that can support business intelligence and media analysis.
 
 ## Features
+
 - Text preprocessing
 - TF-IDF feature extraction
-- Part-of-speech analysis
+- Part-of-Speech (POS) analysis
 - Syntax parsing
 - Sentiment analysis
 - Text classification
-- Named entity recognition
+- Named Entity Recognition (NER)
 
-Created for the ITAI2373 Midterm Project.
+## Tools Used
+
+- Python
+- Google Colab
+- scikit-learn
+- spaCy
+- NLTK
+- pandas
+- matplotlib
+
+## Author
+
+Jaqueline Lomas Vázquez
+
+## Course
+
+ITAI 2373 – Natural Language Processing
